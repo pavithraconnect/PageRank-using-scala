@@ -5,11 +5,6 @@ Goal
 Code that calculates PageRank(PR) for a set of pages from the Apache
 Foundation that have been crawled by a search engine. 
 
-Dataset
-
-http://www.utdallas.edu/~axn112530/cs6350/data/PRData/webcrawl
-
-
 Schema of Dataset:
 
 First Field: URL
